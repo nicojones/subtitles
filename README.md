@@ -11,4 +11,3 @@ In this way I can follow the conversation without having to disable the original
 
 ## Usage
 Download only the `/build folder` if you are just interested in using the merger. Then access the folder and run `index_local.html`
-You can also use it online [here](https://cdn.jsdelivr.net/gh/nicojones/subtitles@ce2b122c59d2868e3511c5b73395e5dbb35fdb98/src/index.js)
