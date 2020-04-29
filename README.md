@@ -10,4 +10,5 @@ Mit csinálsz itt, faszi?
 In this way I can follow the conversation without having to disable the original subtitles. Using subtitles in an easy language (while the movie is in a more difficult language for you) makes you not pay attention to what they say. So always watch movies with their original subtitles _if you are trying to learn the language_.
 
 ## Usage
-Download only the `/build folder` if you are just interested in using the merger. Then access the folder and run `index_local.html`
+ - Local: Download only the `/build folder` if you are just interested in using the merger. Then access the folder and run `index_local.html`
+ - Online: Just access [https://nicojones.github.io/subtitles/build/index_local.html](the repo)
