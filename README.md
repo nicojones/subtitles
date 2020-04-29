@@ -11,4 +11,4 @@ In this way I can follow the conversation without having to disable the original
 
 ## Usage
  - Local: Download only the `/build folder` if you are just interested in using the merger. Then access the folder and run `index_local.html`
- - Online: Just access [https://nicojones.github.io/subtitles/build/index_local.html](the repo)
+ - Online: Just access (the App online)[https://nicojones.github.io/subtitles/build/index_local.html]
